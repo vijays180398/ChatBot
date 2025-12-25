@@ -17,5 +17,5 @@ A Python-based web chatbot project.
 ![Chat Page](images/chatpage.png)
 
 ## Author
-Vijay Babu
+Vijaya Babu
 
