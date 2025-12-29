@@ -4,7 +4,7 @@ def get_response(message):
     rules = {
         "hi": "Hello! How can I help you?",
         "hello": "Hi there!",
-        "how are you": "I'm doing great!",
+        "how are you": "I'm doing great,What about you!",
         "your name": "I'm a rule-based chatbot.",
         "bye": "Goodbye! Have a nice day!"
     }
@@ -14,3 +14,4 @@ def get_response(message):
             return rules[key]
 
     return "Sorry, I didn't understand that."
+
