@@ -4,7 +4,7 @@
 }
 
 body {
-    background: #1E1E1E;
+    background: #000000;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -89,3 +89,4 @@ body {
 .chat-footer button:hover {
     background: #357abd;
 }
+
